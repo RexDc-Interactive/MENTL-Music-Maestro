@@ -1,0 +1,7 @@
+# ignore
+config.json
+node_modules
+to-do.txt
+
+# do not ignore
+!.gitkeep
